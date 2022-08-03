@@ -3,3 +3,9 @@
 ################################################################################
 
 /.vs
+/MvcMovie/bin/Debug/net5.0
+/MvcMovie/.vs/MvcMovie/config
+/MvcMovie/Properties
+/MvcMovie/Views/HelloWorld/Index.cshtml
+/MvcMovie/obj
+/RazorPagesMovie/obj/Release/net5.0
